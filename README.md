@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcurrent-badge-lcnwn5wqqwbs.runkit.sh%2Fcurrent-badge">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
